@@ -7,7 +7,7 @@ Letícia Medeiros Costa Gonçalves: https://github.com/Leticiagoncalves01/Trabal
 
 Natanael Henrique Encarnação Das Mandias: https://github.com/Natanaelhenriqu/Trabalho-de-Big-Data-em-Python
 
-Paulo Henrique Leal Dos Santos: https://github.com/lealhenriq/analisededadostopicodebigdataempython
+Paulo Henrique Leal Dos Santos: https://github.com/lealhenriq/Topicos-De-Big-Data-Em-Python
 
 Roberta Sued Nascimento Gomes De Santana: https://github.com/RobertaSueed/Trabalho-de-Big-Data-em-Python
 
